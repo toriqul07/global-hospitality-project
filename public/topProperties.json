@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Cox's Bazar Beach",
+      "location": "Cox's Bazar, Bangladesh",
+      "description": "The longest natural sea beach in the world, offering stunning sunsets and various water sports.",
+      "uniqueFeatures": [
+        "Longest natural sea beach",
+        "Beautiful sunsets",
+        "Water sports"
+      ],
+      "image": "https://i.ibb.co.com/0Gr7kHQ/longest-sea-beach-in.jpg",
+      "type": "natural wonder"
+    },
+    {
+      "id": 2,
+      "name": "Angkor Wat",
+      "location": "Siem Reap, Cambodia",
+      "description": "A massive temple complex and the largest religious monument in the world, showcasing ancient Khmer architecture.",
+      "uniqueFeatures": [
+        "Largest religious monument",
+        "Ancient Khmer architecture",
+        "Historical significance"
+      ],
+      "image": "https://i.ibb.co.com/f1S50hP/download.jpg",
+      "type": "historical site"
+    },
+    {
+      "id": 3,
+      "name": "Salar de Uyuni",
+      "location": "Uyuni, Bolivia",
+      "description": "The world's largest salt flat, creating a mirror-like reflection of the sky during the rainy season.",
+      "uniqueFeatures": [
+        "World's largest salt flat",
+        "Mirror effect during rainy season",
+        "Unique landscapes"
+      ],
+      "image": "https://i.ibb.co.com/b5QQ8GP/images-5.jpg",
+      "type": "natural wonder"
+    }
+    
+  ]
